@@ -1,8 +1,6 @@
-Here's a `README.md` file for your Job Placement smart contract project:
 
-```markdown
 # Job Placement Smart Contract
-![alt text](image-1.png)
+
 
 ## Vision
 
@@ -34,8 +32,7 @@ The Job Placement smart contract is designed to streamline the job placement pro
 ## Developer Details
 
 - **Author**: S.Sivateja
-- **Email**: [Your Email]
-- **Date**: 25/08/24
+- **Email**: 
 
 ## Getting Started
 
@@ -44,14 +41,12 @@ The Job Placement smart contract is designed to streamline the job placement pro
 3. **Interact with the Contract**: Use web3.js or ethers.js to interact with the smart contract from a frontend application or script.
 4. **Testing**: Write and execute test cases to ensure all functionalities are working as expected.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Deployment 
 Chain Name : Educhain Open Campus
 Contract id :0x82b7d8bb677d47a2d1e6afda5efc0c0ceca0d59ec7e59009b34f7f1222f8d106
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/2ddd1f11-d260-4c4d-8a6c-a8fc55245446)
+
 
 
 
